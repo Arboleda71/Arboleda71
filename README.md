@@ -10,7 +10,7 @@
 ### 🦇 About Me
 
 Hi! I'm **Arboleda Dev**, a focused and disciplined Python developer from Medellín 🇨🇴  
-Currently preparing to apply for a **Junior Python Developer** role at **BairesDev**, I'm committed to growing every day through code.
+Currently preparing to apply for a **Junior Python Developer**, I'm committed to growing every day through code.
 
 🔍 Right now, I’m focused on:
 
